@@ -1,0 +1,42 @@
+{
+  "name": "@stdlib/stats-base-dists-beta-ctor",
+  "version": "0.0.0",
+  "description": "Beta distribution constructor.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-beta-ctor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "object",
+    "class",
+    "constructor",
+    "ctor",
+    "probability",
+    "prob",
+    "beta",
+    "cdf",
+    "pdf",
+    "quantile",
+    "properties",
+    "props",
+    "univariate",
+    "continuous"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
