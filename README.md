@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Beta from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-ctor@esm/index.mjs';
+import Beta from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-ctor@v0.2.1-esm/index.mjs';
 ```
 
 #### Beta( \[alpha, beta] )
@@ -308,7 +308,7 @@ y = beta.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Beta from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-ctor@esm/index.mjs';
+import Beta from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-beta-ctor@v0.2.1-esm/index.mjs';
 
 var beta = new Beta( 2.0, 4.0 );
 
